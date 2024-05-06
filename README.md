@@ -79,7 +79,8 @@ GITHUB/GITHUB ACTIONS
 I first had to create a GitHub account and also a repository where I store all my code and other Gradle files, firstly in android studio you Push your project to GitHub. Once all my files are in GitHub I can now merge my projects and look into pull requests from other developers who are interested or spotted mistakes in my project. To double check if my game would run on other devices and not just my own I used Github actions and another code editor verified by Microsoft(VS CODE) to run tests and a Gradle file to check for bugs and problems…when the results came in there were reportidly “no problems in the workspace”
 ![Screenshot 2024-05-07 160134](https://github.com/Stylo321/Tamagotchi2/assets/165194260/05135770-6c82-4dc1-833f-2d5b1a6be605)
 
-![Uploading Screenshot (95).png…]()
+![Screenshot (95)](https://github.com/Stylo321/Tamagotchi2/assets/165194260/79ed3b74-566c-4513-92a9-50daf44ccc59)
+
 
  Youtube video link: https://youtu.be/eKbPmuka6Vs?si=SDABMvhwmw4ICjmX
 REFERENCE LIST
