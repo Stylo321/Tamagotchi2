@@ -83,6 +83,17 @@ I first had to create a GitHub account and also a repository where I store all m
 
 
  Youtube video link: https://youtu.be/eKbPmuka6Vs?si=SDABMvhwmw4ICjmX
+
+Directions for use:
+-> copy and paste all the Main_activies and activity_mains into your code editor under empty-views-activity
+-> go to build.gradle.kts(app) and paste this implemantation  under Dependencies....implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.19")
+-> sync gradle file
+-> go to Android.Manifest.xml and paste these to ask for permission to use the web <uses-permission android:name="android.permission.INTERNET" />
+                                                                                   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+-> rebuild project 
+-> the game should run.
+
+ 
 REFERENCE LIST
 1.	Understanding GitHub Actions  Automated Testing – Dev Leonard.2023.YouTube video, added by Dev Leonardo.[Online].Available at:
 https://www.youtube.com/watch?v=WW6ZUw9IExA&t=126s&pp=ygUXZ2l0aHViIGFjdGlvbnMgdHV0b3JpYWw%3D  [Accessed 04 May 2024]
