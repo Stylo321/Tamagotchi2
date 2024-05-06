@@ -87,10 +87,16 @@ I first had to create a GitHub account and also a repository where I store all m
 Directions for use:
 -> copy and paste all the Main_activies and activity_mains into your code editor under empty-views-activity
 -> go to build.gradle.kts(app) and paste this implemantation  under Dependencies....implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.19")
+![Screenshot 2024-05-06 173246](https://github.com/Stylo321/Tamagotchi2/assets/165194260/a082b8bf-0150-4afe-aaab-c31e00d18f39)
 -> sync gradle file
--> go to Android.Manifest.xml and paste these to ask for permission to use the web <uses-permission android:name="android.permission.INTERNET" />
-                                                                                   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+-> go to Android.Manifest.xml and paste these to ask for permission to use the web 
+uses-permission-android:name="android.permission.INTERNET" />
+uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+![Screenshot 2024-05-06 173232](https://github.com/Stylo321/Tamagotchi2/assets/165194260/e1d29092-ff67-4a5d-a8c0-f0f1bb2095d6)
+
 -> rebuild project 
+![WhatsApp Image 2024-05-06 at 17 37 42_73413367](https://github.com/Stylo321/Tamagotchi2/assets/165194260/279835c4-9616-4860-bdd4-233906772343)
+
 -> the game should run.
 
  
