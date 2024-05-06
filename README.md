@@ -1,4 +1,9 @@
 IMAD ASSIGNMENT 2 ESSEY
+
+where to find MainActivity(s) & activity_main(s):
+->type in activity and the result will be all the activities for the project
+
+
 This essay will be elaborating on how I came about creating my game for my assignment with all the challenges I came across and how I solved them included the utilization of GitHub and GitHub actions. It will be more in depth on the source code used .
 Firstly after reading and thoroughly going through the assignment instructions and illustration of the game we are supposed to create I noticed that the user interface is built up of mostly TextViews therefore knew that the user interface would be the easiest part of the whole project. The logic of the code is what I needed to figure out so after countless hours of research I figured out and understood  how I am supposed to go about creating and structuring my code. First I needed to add a class on top of the existing  “MainActivity2” class where I’ll add the mathematical logic behind the app. The newly added class is called “class Tamagotchi” and under it is 3 variables namely Hunger, Happiness& Cleanliness…this is what it looks like :
 
