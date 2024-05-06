@@ -77,7 +77,9 @@ UI If play button is pressed.
 
 GITHUB/GITHUB ACTIONS
 I first had to create a GitHub account and also a repository where I store all my code and other Gradle files, firstly in android studio you Push your project to GitHub. Once all my files are in GitHub I can now merge my projects and look into pull requests from other developers who are interested or spotted mistakes in my project. To double check if my game would run on other devices and not just my own I used Github actions and another code editor verified by Microsoft(VS CODE) to run tests and a Gradle file to check for bugs and problems…when the results came in there were reportidly “no problems in the workspace”
- 
+
+
+ Youtube video link: https://youtu.be/eKbPmuka6Vs?si=SDABMvhwmw4ICjmX
 REFERENCE LIST
 1.	Understanding GitHub Actions  Automated Testing – Dev Leonard.2023.YouTube video, added by Dev Leonardo.[Online].Available at:
 https://www.youtube.com/watch?v=WW6ZUw9IExA&t=126s&pp=ygUXZ2l0aHViIGFjdGlvbnMgdHV0b3JpYWw%3D  [Accessed 04 May 2024]
